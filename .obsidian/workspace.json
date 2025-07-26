@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c85ea26e6ee1211c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e409b8ce8f5922f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "446819bbde0449e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Linux/03-Сетевые-настройки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-Сетевые-настройки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc46307a138df53",
+    "type": "split",
+    "children": [
+      {
+        "id": "736c9acd44b1f376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd59645acc51f8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5fb3ad882955040a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cece92d50820ece2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c848d52e7c49d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "852fb79847e515d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da87ed5f2480cf70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-Контейнеризация/01-Docker-основы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 01-Docker-основы"
+            }
+          },
+          {
+            "id": "ad7a4c1cb8993ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Контейнеризация/01-Docker-основы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 01-Docker-основы"
+            }
+          },
+          {
+            "id": "e6da61d71bd85860",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "96131abd1f897292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03-Контейнеризация/01-Docker-основы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 01-Docker-основы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "446819bbde0449e4",
+  "lastOpenFiles": [
+    "02-Linux/05-Основы-сетей.md",
+    "02-Linux/01-Основы-Linux.md",
+    "01-Основы/03-Жизненный-цикл-разработки.md",
+    "01-Основы/02-Культура-DevOps.md",
+    "01-Основы/01-Основные-концепции.md",
+    "README.md",
+    "07-IaC/01-Terraform.md",
+    "05-CI-CD/01-Jenkins.md",
+    "10-Инструменты/02-Скрипты.md",
+    "08-Безопасность/03-Secrets-Management.md",
+    "08-Безопасность/02-Сканирование-уязвимостей.md",
+    "08-Безопасность/01-Основы-безопасности.md",
+    "06-Мониторинг/01-Prometheus.md",
+    "09-Производительность/02-Масштабирование.md",
+    "09-Производительность/01-Оптимизация-производительности.md",
+    "09-Производительность",
+    "08-Безопасность",
+    "07-IaC/03-Puppet.md",
+    "07-IaC/02-Ansible.md",
+    "05-CI-CD/04-ArgoCD.md",
+    "05-CI-CD/03-GitHub-Actions.md",
+    "05-CI-CD/02-GitLab-CI.md",
+    "04-Облачные-платформы/03-GCP.md",
+    "04-Облачные-платформы/02-Azure.md",
+    "04-Облачные-платформы/01-AWS.md",
+    "02-Linux/04-Безопасность.md",
+    "02-Linux/03-Сетевые-настройки.md",
+    "02-Linux/02-Управление-процессами.md",
+    "04-Облачные-платформы",
+    "07-IaC"
+  ]
+}
